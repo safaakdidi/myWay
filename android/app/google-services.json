@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668972407346",
+    "project_id": "myway-501ea",
+    "storage_bucket": "myway-501ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668972407346:android:11c8810e27a2db17bcfa2b",
+        "android_client_info": {
+          "package_name": "com.safaemnahouss.ppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668972407346-j1lgi2ckmchuv2hc1tu3nv0fti07jrme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkkHN30PVPw9z3pNOLLylQ7brNLI4lkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668972407346-j1lgi2ckmchuv2hc1tu3nv0fti07jrme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
